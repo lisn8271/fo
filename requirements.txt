@@ -1,0 +1,5 @@
+httpx
+pyyaml
+rich
+pyfiglet
+python-dotenv
